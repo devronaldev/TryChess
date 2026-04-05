@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess.Api", "TryChess.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess.Domain", "TryChess.Domain\TryChess.Domain.csproj", "{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess.Services", "TryChess.Services\TryChess.Services.csproj", "{9901CB76-97E7-4F26-925A-1376B992986D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9901CB76-97E7-4F26-925A-1376B992986D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9901CB76-97E7-4F26-925A-1376B992986D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9901CB76-97E7-4F26-925A-1376B992986D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9901CB76-97E7-4F26-925A-1376B992986D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
