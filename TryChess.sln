@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess", "TryChess\TryChess.csproj", "{3FCB7589-9C64-4F39-98D5-5FC7CC6F6027}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess.Api", "TryChess.Api\TryChess.Api.csproj", "{3FCB7589-9C64-4F39-98D5-5FC7CC6F6027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryChess.Domain", "TryChess.Domain\TryChess.Domain.csproj", "{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +14,9 @@ Global
 		{3FCB7589-9C64-4F39-98D5-5FC7CC6F6027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FCB7589-9C64-4F39-98D5-5FC7CC6F6027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FCB7589-9C64-4F39-98D5-5FC7CC6F6027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0772AF-6EBB-47F2-A0B8-F274B04E25E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
